@@ -10,3 +10,6 @@
 |2-2-17 | Start screen design in multiple formats | 4 | Mostly Word |
 |2-3-17 | Finish Screen Design/Graphic survey | 1 |  |
 |2-3-17 | Mark down plugin for Word | 1 | Didn't convert graphic Well |
+|2-3-17 | Start week 3 exercise | 3 | Hibernate R&D |
+|2-4-17 | IP DB design/diaram   | 3 | Learning MySQL Workbench |
+
