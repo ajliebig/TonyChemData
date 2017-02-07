@@ -13,3 +13,5 @@
 |2-3-17 | Start week 3 exercise | 3 | Hibernate R&D |
 |2-4-17 | IP DB design/diaram   | 3 | Learning MySQL Workbench |
 |2-4-17 | Week 3 Excercise      | 3 | Might be finished with user class |
+|2-6-17 | Week 3 Excercise      | 3 | Done with UserDao, attempting DoaTest |
+
